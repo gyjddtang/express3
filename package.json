@@ -1,0 +1,14 @@
+{
+  "name": "express3",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "app.js",
+  "author": "Mili",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
